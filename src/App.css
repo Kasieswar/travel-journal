@@ -23,13 +23,14 @@ body{
   transition: color 0.3s ease;
 }
 
-.nav-link{
+.link{
   color: #ecf0f1;
   margin-left: 20px;
   transition: color 0.3s ease;
+  text-decoration: none;
 }
 
-.nav-link:hover{
+.link:hover{
   color: #ffd700;
 }
 
