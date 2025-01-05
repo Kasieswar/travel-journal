@@ -12,7 +12,7 @@ import Contact from './Pages/Contact'
 function App() {
   return (
     <div>
-      <Router basename="/travel-journal">
+      <Router>
         <Navbar />
         <Routes>
           <Route path='/travel-journal' element={<Home />} />
