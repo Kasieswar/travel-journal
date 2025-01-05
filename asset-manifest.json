@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/travel-journal/static/css/main.22d8195d.css",
-    "main.js": "/travel-journal/static/js/main.975ebb4e.js",
+    "main.js": "/travel-journal/static/js/main.f8280b49.js",
     "static/js/453.8d4e7591.chunk.js": "/travel-journal/static/js/453.8d4e7591.chunk.js",
     "static/media/sunset-beach-sea-wave.jpg": "/travel-journal/static/media/sunset-beach-sea-wave.c235552361905194bec2.jpg",
     "index.html": "/travel-journal/index.html",
     "main.22d8195d.css.map": "/travel-journal/static/css/main.22d8195d.css.map",
-    "main.975ebb4e.js.map": "/travel-journal/static/js/main.975ebb4e.js.map",
+    "main.f8280b49.js.map": "/travel-journal/static/js/main.f8280b49.js.map",
     "453.8d4e7591.chunk.js.map": "/travel-journal/static/js/453.8d4e7591.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.22d8195d.css",
-    "static/js/main.975ebb4e.js"
+    "static/js/main.f8280b49.js"
   ]
 }
