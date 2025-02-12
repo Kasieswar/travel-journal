@@ -20,7 +20,7 @@ body{
   font-weight: bold;
   color: #f39c12 !important;
   margin-right: auto;
-  transition: color 0.4s ease;
+  transition: color 0.3s ease;
 }
 
 .link{
